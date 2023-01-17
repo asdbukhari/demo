@@ -1,0 +1,15 @@
+{
+	"name": "@ambukhari/demoproject",
+	"version": "1.0.0",
+	"description": "demoProject",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"demo",
+		"package"
+	],
+	"author": "Asad Bukhari",
+	"license": "ISC"
+}
