@@ -1,3 +1,3 @@
-module.exports = () => {
+const e = () => {
 	console.log("demo");
 };
